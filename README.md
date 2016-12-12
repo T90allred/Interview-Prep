@@ -1,1 +1,1 @@
-A grouping of different interview questions and their solutions
+Different interview questions and their solutions
